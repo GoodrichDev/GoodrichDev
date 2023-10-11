@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GoodrichDev
+- 👀 I’m interested in programming Automation within networking
+- 🌱 I’m currently learning Networking and Security
+- 📫 You can reach me at austin@goodrich.dev
