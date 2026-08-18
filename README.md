@@ -2,10 +2,6 @@
 
 I build and run systems.
 
-Backend, infrastructure, and making things work under load.
-
-Owner of [EarthPol](https://earthpol.com/) - a geopolitical Minecraft server running on a 1:326 Earth map.
-
 ---
 
 ## ⚙️ What I Work With
