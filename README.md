@@ -20,10 +20,7 @@ Owner of [EarthPol](https://earthpol.com/) - a geopolitical Minecraft server run
 
 ## 🧩 Current Work
 
-- Scaling EarthPol infrastructure
-- Custom Minecraft plugins (Civitas, Gladius)
 - Building an Enterprise Monitoring stack (Prometheus / Grafana Enterprise / Loki / Tempo / OpenTel)
-- Network + proxy architecture (Velocity, HAProxy, Automation)
 
 ---
 
